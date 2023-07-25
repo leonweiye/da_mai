@@ -13,7 +13,7 @@ damai_url = "https://www.damai.cn/"
 login_url = "https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F"
 # todo 抢票目标页
 target_url = 'https://detail.damai.cn/item.htm?id=727437709222'
-
+# ssss
 class Concert:
     def __init__(self):
         self.status = 0  # 状态,表示如今进行到何种程度
